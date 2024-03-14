@@ -1,6 +1,6 @@
 {
   "name": "hahaclmm",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -21,6 +21,14 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huydeptrai2k/huytest0711.git"
+  },
+  "bugs": {
+    "url": "https://github.com/huydeptrai2k/huytest0711/issues"
+  },
+  "homepage": "https://github.com/huydeptrai2k/huytest0711#readme",
   "eslintConfig": {
     "extends": [
       "react-app",
